@@ -9,13 +9,9 @@
 import Foundation
 
 
-class SdkHelper {
+ public class SdkHelper {
     
     func add(int1:Int,int2:Int) -> Int {
         return (int1+int2)
     }
-    
-    
-    
-    
 }
