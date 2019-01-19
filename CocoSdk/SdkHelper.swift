@@ -11,7 +11,11 @@ import Foundation
 
  public class SdkHelper {
     
-   public func add(int1:Int,int2:Int) -> Int {
+    public init(){
+        
+    }
+    
+    public func add(int1:Int,int2:Int) -> Int {
         return (int1+int2)
     }
 }
